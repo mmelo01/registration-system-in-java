@@ -1,0 +1,14 @@
+C:\Users\mathe\Desktop\curso de C#\bin\Debug\net9.0\curso de C#.exe
+C:\Users\mathe\Desktop\curso de C#\bin\Debug\net9.0\curso de C#.deps.json
+C:\Users\mathe\Desktop\curso de C#\bin\Debug\net9.0\curso de C#.runtimeconfig.json
+C:\Users\mathe\Desktop\curso de C#\bin\Debug\net9.0\curso de C#.dll
+C:\Users\mathe\Desktop\curso de C#\bin\Debug\net9.0\curso de C#.pdb
+C:\Users\mathe\Desktop\curso de C#\obj\Debug\net9.0\curso de C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\curso de C#\obj\Debug\net9.0\curso de C#.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\curso de C#\obj\Debug\net9.0\curso de C#.AssemblyInfo.cs
+C:\Users\mathe\Desktop\curso de C#\obj\Debug\net9.0\curso de C#.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\curso de C#\obj\Debug\net9.0\curso de C#.dll
+C:\Users\mathe\Desktop\curso de C#\obj\Debug\net9.0\refint\curso de C#.dll
+C:\Users\mathe\Desktop\curso de C#\obj\Debug\net9.0\curso de C#.pdb
+C:\Users\mathe\Desktop\curso de C#\obj\Debug\net9.0\curso de C#.genruntimeconfig.cache
+C:\Users\mathe\Desktop\curso de C#\obj\Debug\net9.0\ref\curso de C#.dll
